@@ -18,6 +18,29 @@ NICHE ACCOUNTS (3-5 handles, no @):
 - handle_three
 ```
 
+### FlowHQ niche groups
+
+FlowHQ's research covers three niches. Each run uses ONE group (3-5 handles) so the per-account medians and cross-account patterns stay comparable. Replace the `REPLACE_ME_*` entries with real, public, actively-posting reel accounts before running — the skill must not run while any `REPLACE_ME_*` handle is present.
+
+```
+AI AUTOMATION CREATORS (workflows, agents, no-code/n8n/Make/Zapier-style automation):
+- REPLACE_ME_automation_1
+- REPLACE_ME_automation_2
+- REPLACE_ME_automation_3
+
+AI TOOLS CREATORS (tool reviews, "tools you're missing", prompt/tool walkthroughs):
+- REPLACE_ME_tools_1
+- REPLACE_ME_tools_2
+- REPLACE_ME_tools_3
+
+BUSINESS EDUCATION CREATORS (entrepreneurship, marketing, operations, founder lessons):
+- REPLACE_ME_business_1
+- REPLACE_ME_business_2
+- REPLACE_ME_business_3
+```
+
+To run: "find outliers for the AI automation group" (or "AI tools" / "business education"). Naming handles in the request still overrides this config.
+
 ## When to use
 
 - You want to know what's actually working in your niche right now, backed by real numbers.
